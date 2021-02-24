@@ -1,26 +1,13 @@
 var nombre = "Juan Francisco";
 var apellido = "Defranza";
 var nombrecompleto = nombre + " " + apellido;
-var edad = 32
+var edad = 33
 var listadecosas = [edad, 3, "comida"];
 var esCierto = true;
 var escierto = (edad == 5);
 var esverdad = edad > 30;
 typeof nombre;
 var eltipodeunavariable = typeof edad; 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -36,3 +23,4 @@ console.log(escierto)
 console.log(esverdad)
 console.log(typeof nombre)
 console.log(eltipodeunavariable == "string")
+
