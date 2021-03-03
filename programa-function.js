@@ -16,3 +16,9 @@ function conIva(precio){
 }
 
 console.log(conIva(50));
+
+function sumarnumero(){
+    return 4;
+}
+var resultado = sumarnumero();
+console.log(resultado)
